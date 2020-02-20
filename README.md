@@ -1,0 +1,2 @@
+# xewn
+Extended English WordNet
